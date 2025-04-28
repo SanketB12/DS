@@ -96,7 +96,7 @@ module ReverseApp {
 
 //Commands
 //idlj -fall Reverse.idl
-//        orbd -ORBInitialPort 1050 &
+//        orbd -ORBInitialPort 1050
 //        javac *.java
 //        java ReverseServer -ORBInitialPort 1050 -ORBInitialHost localhost
 //        2nd terminal
